@@ -1,0 +1,29 @@
+.general {
+    border: solid;
+    border-color: #87CEFA;
+    margin: 5px 5px;
+    padding: 2px 2px;
+    width: 250px;
+}
+
+.btn {
+    background: #87CEFA;
+    color: black;
+    padding: 10px 15px;
+    border: none;
+}
+
+p {
+    border: solid;
+    border-color: #87CEFA;
+    border-radius: 10px;
+    text-align: center;
+    padding: 7px 10px;
+    width: 300px;
+}
+
+.output {
+    width: 600px;
+    height: 200px;
+    overflow: auto;
+}
